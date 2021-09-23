@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/mahabub-swe/cTag_generator_ultimate/main/Screenshot%20(3).png) 
 
 
-5. run  **npm install**  command on your terminal
+5. run  `**npm install**`  command on your terminal
 ![](https://raw.githubusercontent.com/mahabub-swe/cTag_generator_ultimate/main/Screenshot%20(4).png)
 
  

@@ -12,12 +12,12 @@
 ![](https://raw.githubusercontent.com/mahabub-swe/cTag_generator_ultimate/main/Screenshot%20(3).png) 
 
 
-5. run  **`npm install`**  command on your terminal
+5. run   **`npm install`**   command on your terminal
 ![](https://raw.githubusercontent.com/mahabub-swe/cTag_generator_ultimate/main/Screenshot%20(4).png)
 
  
-6. place your **html** into **input.html** and run  **npm start**  command on your terminal
+6. place your **html** into **input.html** and run   **`npm start`**   command on your terminal
 ![](https://raw.githubusercontent.com/mahabub-swe/cTag_generator_ultimate/main/Screenshot%20(5).png)
 
 
-7. to auto-compile your html, run   **npm run start:watch**  command on your terminal
+7. to auto-compile your html, run   **`npm run start:watch`**  command on your terminal
